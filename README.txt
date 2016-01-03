@@ -171,3 +171,5 @@ metal.pbrt: Metropolis light transport, measured BRDFs
 prt-teapot.pbrt: precomputed radiance transfer
 
 ss-envmap.pbrt: subsurface scattering
+
+test
